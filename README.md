@@ -1,3 +1,3 @@
-Chinese Patch for Android Studio
+SimpleChinese Patch for Android Studio
 =============
 url: www.android-studio.org
